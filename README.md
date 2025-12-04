@@ -65,3 +65,22 @@ Will need?
 - Crampon / spikes
 - Beats upgrade?
 - Hiking Sunglasses? Or bring 
+
+
+AIRPORT NOTES
+---
+city I am staying in is: 
+Huas Padrun 5
+Unterseestrasse, Arosa
+
+Arosa Line - train
+Chur(town) - oldest swiss town
+christmas markets -> Zur
+
+Lucerne(town) -> Lake promenade /chapel bridge
+Sunset/rise alps
+Weisshorn(town)
+cable car
+hike
+hut
+
