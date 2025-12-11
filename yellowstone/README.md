@@ -20,6 +20,14 @@ Drive out has 3 route options
 ### Route Option 1 — I-90 W (1,849 miles, 26–30 hr)
 A fast, high-scenic-value route through Missouri, South Dakota, and Wyoming.
 
+#### Variant Z — National Park Gauntlet
+| Day | Stop | Location | Notes |
+|-----|------|-----------|--------|
+| Day 1 | **⭐ Gateway Arch** | St. Louis, MO | Quick iconic stop, photos |
+| Day 2 | **🌄 Badlands National Park** | SD | Drive + overlooks |
+| Day 3 | **🗿 Mount Rushmore** | SD | Quick iconic stop |
+---
+
 #### Variant A — National Park Gauntlet
 | Day | Stop | Location | Notes |
 |-----|------|-----------|--------|
@@ -55,86 +63,6 @@ A fast, high-scenic-value route through Missouri, South Dakota, and Wyoming.
 | Day 3 | Paradise Valley | MT | Dec alternative to Beartooth |
 
 ---
-
----
-
-### Route Option 2 — I-29 N → I-90 W (1,841 miles, 26–31 hr)
-The “zoo + waterfalls + great scenery” route.
-
-#### Variant A — Zoo + Waterfalls
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | Aquarium | St. Louis | Quick stop |
-|      | Omaha Henry Doorly Zoo | Omaha, NE | One of best in world |
-| Day 2 | Falls Park | Sioux Falls, SD | Free + gorgeous |
-|      | Badlands Scenic Loop | SD | Required SD moment |
-| Day 3 | Custer Wildlife Loop | SD | Bison + burros |
-|      | Spearfish Canyon | SD | Waterfalls |
-|      | Arrive Yellowstone | MT | Evening |
-
----
-
-#### Variant B — Teen Adventure Route
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | KC Up-Down Arcade | Kansas City | Teens love it |
-|      | Omaha Desert Dome | Omaha Zoo | Massive biome |
-| Day 2 | Sculpture Walk | Sioux Falls | Fun + weird |
-|      | Badlands Fossil Trail | SD | Short and fun |
-| Day 3 | Deadwood | SD | Ghost-town energy |
-|      | Cody Museums | WY | Cowboy culture |
-
----
-
-#### Variant C — Photography + Date Vibes Route
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | Loess Hills Byway | IA | Scenic rolling hills |
-|      | Omaha Old Market | Omaha | Coffee + date shops |
-| Day 2 | Badlands Sunrise | SD | Unreal colors |
-|      | Needles Highway | SD | Spires and tunnels |
-| Day 3 | Paradise Valley | MT | Mountain views |
-
----
-
----
-
-### Route Option 3 — US-212 W + I-90 W (1,909 miles, 27–31 hr)
-Most rugged, most “Big West energy,” Tribal lands and Montana landscapes.
-
-#### Variant A — Wild West Route
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | St. Louis → KC → Sioux City | MO → IA | Good food + easy miles |
-| Day 2 | Wounded Knee | Pine Ridge, SD | Historical significance |
-|      | Badlands South Unit | SD | Quiet, remote scenery |
-| Day 3 | Little Bighorn Battlefield | MT | Monument + history |
-|      | Red Lodge | MT | Mountain town |
-|      | Arrive Yellowstone | MT | Evening |
-
----
-
-#### Variant B — Scenic Overload
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | Garden of the Gods | IL | Classic Midwest stop |
-|      | Sioux Falls | SD | Overnight |
-| Day 2 | Badlands South Unit | SD | Less crowded |
-|      | Scenic, SD Ghost Town | SD | Teens love creepy deserted towns |
-| Day 3 | Paradise Valley | MT | Gorgeous |
-|      | Yellowstone Hot Springs | Gardiner, MT | Warm soak arrival |
-
----
-
-#### Variant C — Tribal Lands + History Route
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | St. Louis → Sioux Falls | MO → SD | Easy miles |
-| Day 2 | Pine Ridge Reservation | SD | Cultural history |
-|      | Badlands Overlooks | SD | Iconic terrain |
-| Day 3 | Crow Agency → Little Bighorn | MT | Deep historical relevance |
-|      | Arrive Yellowstone | MT | Evening |
-
 
 
 Yellowstone events
