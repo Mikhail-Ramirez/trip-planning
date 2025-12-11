@@ -1,4 +1,28 @@
 # zurich-trip
+
+Post Trip analysis
+---
+Didnt wear shorts at all
+other cities were 6/7 hours travel by train -> check travel times next time
+    - so I did not get to visit any others
+Instead look at local hikes more in depth and prepare
+    - snow made it difficult when it was calf deep alone
+    - should have brought the garmin in reach, considering I did the hikes alone need the security
+
+Arosa was a great town
+Chur was fine
+
+the best part was seeing family. 
+John worries me
+
+When traveling check which way you gain/lose days overseas
+this was convinient flying back, Going to work Wednesday was super easy 
+1. because I had no chores
+2. because I slept great from the 'long' day I just had flying back
+
+
+
+
 Dec 4 - Dec 9 (2 travel days 4 days there)
 ---
 
