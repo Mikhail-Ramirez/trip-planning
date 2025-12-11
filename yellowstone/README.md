@@ -28,40 +28,20 @@ A fast, high-scenic-value route through Missouri, South Dakota, and Wyoming.
 | Day 3 | **🗿 Mount Rushmore** | SD | Quick iconic stop |
 ---
 
-#### Variant A — National Park Gauntlet
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | Gateway Arch | St. Louis, MO | Quick iconic stop, photos |
-|      | Katy Trail Overlook | Mid-Missouri | Stretch + picnic |
-|      | KC BBQ Dinner | Kansas City, MO | Mandatory morale booster |
-| Day 2 | Badlands National Park | SD | Drive + overlooks |
-|      | Wall Drug | Wall, SD | Americana chaos |
-|      | Dinosaur Park | Rapid City, SD | Free + fun |
-| Day 3 | Mount Rushmore | SD | Quick iconic stop |
-|      | Wind Cave Wildlife Loop | SD | Bison herds |
-|      | Arrive in Gardiner | MT | Check-in / evening |
-
 ---
-
-#### Variant B — Family Fun Route
-| Day | Stop | Location | Notes |
-|-----|------|-----------|--------|
-| Day 1 | Corvette Museum | Bowling Green, KY | Teen-approved |
-|      | Omaha Zoo | Omaha, NE | Top-tier zoo |
-| Day 2 | Badlands Loop | SD | High scenery |
-|      | Minuteman Missile Site | SD | Educational coolness |
-| Day 3 | Big Horn Mountains | WY | Stunning overlooks |
-|      | Cody | WY | Food + Western charm |
-
----
-
-#### Variant C — Photography / Aesthetic Route
+#### Other options
 | Day | Stop | Location | Notes |
 |-----|------|-----------|--------|
 | Day 1 | Garden of the Gods | IL | Unique rock formations |
 | Day 2 | Badlands Sunset Point | SD | Elite photography |
-| Day 3 | Paradise Valley | MT | Dec alternative to Beartooth |
-
+| Day 3 | Big Horn Mountains | WY | Stunning overlooks |
+| Day 1 | City Museum | St. Louis, MO | A gigantic industrial playground — slides, caves, tunnels; teens lose their minds |
+| Day 1 | Omaha Old Market Lights | Omaha, NE | Brick streets + winter lights = perfect cozy stroll + photos |
+| Day 2 | Custer State Park Wildlife Loop | SD | Massive bison herds roaming right past the car — unreal in winter |
+| Day 2 | Wall Drug “Backyard Dino” Photo Op | Wall, SD | Chaotic Americana energy + giant dinosaur for iconic trip photos |
+| Day 2 | Sylvan Lake (Frozen) | Custer SP, SD | Frozen alpine lake; surreal winter landscape for photos |
+| Day 3 | Spearfish Canyon | SD | Waterfalls + snowy canyon walls; one of the most scenic winter drives in the region |
+| Day 3 | Cody Night Stroll (if routing via WY) | Cody, WY | Western mountain-town holiday lights; great food + cozy vibe |
 ---
 
 
