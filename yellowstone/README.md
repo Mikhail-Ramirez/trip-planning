@@ -1,4 +1,4 @@
-Dec 26 - Jan 3 (planned)
+# Dec 26 - Jan 3 (planned)
 ---
 AirBNB nights
     - 28th - 1st
@@ -13,14 +13,9 @@ Fri, Jan 2
 10:00 AM
 
 
-Road Trip Events / stops
----
+## Route I-90 W (1,849 miles, 26–30 hr)
+A route through Missouri, South Dakota, and Wyoming.
 
-Drive out has 3 route options
-### Route Option 1 — I-90 W (1,849 miles, 26–30 hr)
-A fast, high-scenic-value route through Missouri, South Dakota, and Wyoming.
-
-#### Variant Z — National Park Gauntlet
 | Day | Stop | Location | Notes |
 |-----|------|-----------|--------|
 | Day 1 | **⭐ Gateway Arch** | St. Louis, MO | Quick iconic stop, photos |
@@ -45,7 +40,7 @@ A fast, high-scenic-value route through Missouri, South Dakota, and Wyoming.
 ---
 
 
-Yellowstone events
+##Yellowstone events
 ---
 
 29th
@@ -60,3 +55,58 @@ Yellowstone events
 1st
 ---
 
+
+
+## Packing
+- Yeti Cooler
+    - snacks and 1/2 meals for drive
+- 1 patagonia bag (clothes and toiletries)
+- 1 cross body bag (things)
+- 1 backpack (electric things)
+
+### Wearing
+- Down jacket
+- Thsirt 1
+- Nike sweat pants
+- Underwear 1
+- Merino Socks 1
+- Birks
+
+- Have on person
+    - Beanie
+    - Glasses
+    - good sunglasses
+
+### Patagonia Bag
+- Striped sweater
+- Windbreaker
+- 2 gloves
+- Pants 1 and 2
+- Merino Shirt
+- Merino Pants
+- Tshirts 2/3
+- 1 sleep shirt
+- 1 comfort shorts
+- underwear 4:5
+- socks 4:5
+
+- Boots
+- 
+
+- Toothbrush / paste
+- deoderant
+- 1 razor
+- creatine
+
+### Backpack
+- laptop
+- chargers
+
+### Cross body bag
+- credit cards 
+- travel battery
+- chapstick
+
+REMEMBER TO
+---
+- wash clothes and do chores before
